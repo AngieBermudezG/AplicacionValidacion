@@ -6,7 +6,12 @@ namespace AplicacionValidacion
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            /*NumerosInvertidos invertirDos = new NumerosInvertidos();
+            invertirDos.InvertiendoDosNumeros();
+            invertirDos.InvertirTresNumeros();*/
+            OperacionesMatematicas operacionesMatematicas = new OperacionesMatematicas();
+            operacionesMatematicas.OperacionesMatematicasSinCiclo();
+            operacionesMatematicas.OperacionesMatematicasConObcionesSwich();
         }
     }
 }
