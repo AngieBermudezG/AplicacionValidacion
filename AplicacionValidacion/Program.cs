@@ -57,8 +57,23 @@ namespace AplicacionValidacion
             /*TablaDeMultiplicar multiplicar = new TablaDeMultiplicar();
             multiplicar.TablaMultiplicar();*/
 
-            PresupuestoAreaHospital hospital = new PresupuestoAreaHospital();
-            hospital.HallarPresupuestoPorArea();
+            /*PresupuestoAreaHospital hospital = new PresupuestoAreaHospital();
+            hospital.HallarPresupuestoPorArea();*/
+
+            /*SumarParesEImpares sumarParesEImpares = new SumarParesEImpares();
+            sumarParesEImpares.HallarSumaDeParesEImpares();*/
+
+            /*TodasTablasDeMultiplicar tablasDeMultiplicar = new TodasTablasDeMultiplicar();
+            tablasDeMultiplicar.TablasMultiplicar();*/
+
+            /*MayorMenorDeNNumeros menorDeNNumeros = new MayorMenorDeNNumeros();
+            menorDeNNumeros.HallarCualesMayorYMenor();*/
+
+            /*Fibonacci fibonacci = new Fibonacci();
+            fibonacci.HallarElFibonacci();*/
+
+            PromedioCalificaciones promedioCalificaciones = new PromedioCalificaciones();
+            promedioCalificaciones.HallarPromedio();
         }
     }
 }
